@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm a software engineer that's passionate about solving complex problems and creating responsive applications. I devoted myself to a life-long journey learning new technical skills and applying them to real world applications. When I'm not coding, I enjoy going for long walks at the park on sunny days or staying in and playing video games. 
+My tech stack:
+Javascript, Python, React, Node, Mongoose, Express, MongoDB, SQL, Flask, Django.
 
 <!--
 **mary3210/mary3210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
