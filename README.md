@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer that's passionate about solving complex problems and creating responsive applications. I devoted myself to a life-long journey learning new technical skills and applying them to real world applications. When I'm not coding, I enjoy playing going for long walks at the part on sunny days or staying and playing video games. 
+I'm a software engineer that's passionate about solving complex problems and creating responsive applications. I devoted myself to a life-long journey learning new technical skills and applying them to real world applications. When I'm not coding, I enjoy going for long walks at the part on sunny days or staying and playing video games. 
 
 <!--
 **mary3210/mary3210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
