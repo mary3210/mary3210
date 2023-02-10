@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a software engineer that's passionate about solving complex problems and creating responsive applications. I devoted myself to a life-long journey learning new technical skills and applying them to real world applications. When I'm not coding, I enjoy going for long walks at the park on sunny days or staying in and playing video games. 
-<b />
+<br />
 My tech stack:
 Javascript, Python, React, Node, Mongoose, Express, MongoDB, SQL, Flask, Django.
 
